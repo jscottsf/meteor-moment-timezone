@@ -1,7 +1,8 @@
 Package.describe({
-  name: 'moment-timezone',
+  // name: 'jscottsf:meteor-moment-timezone',
   summary: 'Moment-timezone (unofficial): parse and display dates in any timezone',
   version: '0.3.0',
+  // git: 'https://github.com/jscottsf/meteor-moment-timezone.git'
 });
 
 Package.onUse(function (api) {
